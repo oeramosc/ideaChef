@@ -1,0 +1,132 @@
+body {
+	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
+	font-family: 'Arimo', sans-serif;	
+	background-color: transparent;
+	margin: 0;
+	padding: 0;
+	color: #000;
+	font-size: 62.5%;
+}
+#contenedor{
+    max-width: 1024px;
+    min-width: 1024px;	
+	height: auto;
+	margin: 0 auto; 
+	overflow: hidden;
+	background-color: #fff;
+	box-shadow: 0px 0px 20px 0px #CCC;
+}
+#cabecera{
+	margin: 0 auto; 
+	font-family: 'Arimo', sans-serif;		
+	font-size:18px;
+	font-weight:bold;
+	text-align:center;
+    height:auto;
+	width:1024px;	
+    padding:0px;
+	/*margin-left:26px;
+	margin-right:26px;*/
+	clear: both;
+}
+#banner{
+	margin: 0 auto; 
+	font-family: 'Arimo', sans-serif;		
+	font-size:18px;
+	font-weight:bold;
+	text-align:center;
+    height:300px;
+	width:1024px;	
+    padding:0px;
+	/*margin-left:26px;
+	margin-right:26px;*/
+	clear: both;
+	background-color: #ccc;
+}
+#sec1{
+   float:left;
+   vertical-align:middle;
+   text-align:center;
+   width:324px;
+   height:150px;
+   padding:0px;
+   margin-bottom:0px;
+   padding-bottom:0px;
+  /* background-color:#ff0000;  */ 
+
+}
+#sec2{
+   float:none;
+   /*clear:none;*/
+   text-align:center;
+   width:100%;
+   height:150px;
+   line-height: 150px;
+   padding:0px;
+   vertical-align:middle;
+   font-weight:normal;
+   font-style:normal;
+   color:#666;
+	margin-left:5px;
+	margin-right:5px;	
+	margin-bottom:5px;
+	margin-top:5px;	
+	/*background-color:#4272d7; */  
+}
+
+#sec3{
+   float:left;
+   vertical-align:middle;
+   text-align:center;
+   width:654px;
+   height:auto;
+   padding:0px;
+   margin-left:5px;
+	margin-right:5px;	
+	margin-bottom:5px;
+	margin-top:5px;
+  /* background-color:#ff0000;  */ 
+
+}
+#sec4{
+	
+   position: relative;
+   float:none;
+   /*clear:none;*/
+   text-align:center;
+   width:100%;
+   height:auto;
+   padding:0px;
+   vertical-align:middle;
+   font-weight:normal;
+   font-style:normal;
+   color:#666;
+	margin-left:5px;
+	margin-right:5px;	
+	margin-bottom:5px;
+	margin-top:5px;
+	/*background-color:#4272d7; */  
+}
+#contenido{
+	/*background-color: gray;*/
+    float:left;
+    width:1024px;
+    height:auto;
+	clear: both;
+}
+#footer {
+	position: relative;
+	margin-top: -50px;
+	height: auto; 
+	padding:5px 0px;
+	clear: both;
+	background: #6a0b0b;
+	color: #fff;
+	font-family: 'Arimo', sans-serif;		
+	font-size:12px;
+	font-weight:bold;
+	text-align:center;
+}
+#map {
+        height: 300px;
+      }
